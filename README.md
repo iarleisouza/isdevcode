@@ -1,0 +1,2 @@
+# isdevcode
+Projeto criado para concorrer a bolsa do projeto DoWhile da rocketseat. Esse projeto é com as tecnologia html/css/js. O projeto foi criado para resolver o seguinte problema: > "Pensando em construir o futuro, como você solucionaria os problemas de acesso à educação hoje, utilizando a tecnologia?" > "Pensando em construir o futuro, como você solucionaria os problemas de acesso à educação hoje, utilizando a tecnologia?" 
